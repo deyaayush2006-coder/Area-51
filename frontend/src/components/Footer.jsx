@@ -5,11 +5,11 @@ export default function Footer() {
         <div className="flex items-center gap-2">
           <span className="w-2 h-2 rounded-full bg-radar animate-blip-pulse" />
           <span className="font-mono text-[11px] tracking-widest text-ink-muted">
-            AREA 51 ARCHIVE TERMINAL &nbsp;/&nbsp; BUILD FOR EDUCATIONAL &amp; DEMO PURPOSES
+            AREA 51 ARCHIVE TERMINAL
           </span>
         </div>
         <p className="font-mono text-[10px] tracking-widest text-ink-faint uppercase">
-          Distribution: Unlimited &nbsp;•&nbsp; Not an official government resource
+          UNITED STATED OF AMERICA // AREA 51 // NEVADA // 37.2350° N, 115.8111° W
         </p>
       </div>
     </footer>
