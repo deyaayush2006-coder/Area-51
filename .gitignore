@@ -1,10 +1,20 @@
 node_modules/
 dist/
 
-# Real credentials stay local; *.env.example files are committed instead
+# Real credentials stay local (backend/.env, frontend/.env); only *.env.example templates may be committed
 .env
 .env.*
 !.env.example
 
+# Keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
 *.log
 .vercel/
+
+# OS clutter
+.DS_Store
+Thumbs.db
