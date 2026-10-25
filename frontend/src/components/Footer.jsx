@@ -9,7 +9,7 @@ export default function Footer() {
           </span>
         </div>
         <p className="font-mono text-[10px] tracking-widest text-ink-faint uppercase">
-          UNITED STATED OF AMERICA // AREA 51 // NEVADA // 37.2350° N, 115.8111° W
+          UNITED STATED OF AMERICA
         </p>
       </div>
     </footer>
