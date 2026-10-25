@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# Real credentials stay local; *.env.example files are committed instead
+.env
+.env.*
+!.env.example
+
+*.log
+.vercel/
